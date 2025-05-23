@@ -5,7 +5,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 public class ElectronicCalendar extends Application {
-    // Constants defining the dimensions of the calculator window
+    // Constants defining the dimensions of the calendar window
     private static final int CALENDAR_WIDTH_SIZE = 600;
     private static final int CALENDAR_HEIGHT_SIZE = 500;
 
